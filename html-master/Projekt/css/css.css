@@ -1,0 +1,104 @@
+h3{
+    color: #000000;
+    font-size: 30px;
+}
+.bg{
+background-color: lightblue;
+}
+.bg1{
+    background-color: cornflowerblue;
+}
+h6{
+    position: relative;
+    right: -1350px;
+    top: -200px;
+    color: cadetblue;
+    text-align: right;
+}
+.a1:hover{
+    background-color: grey;
+}
+h1{
+    color: #000000;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    right: -400px;
+    top: -220px;
+}
+.bg2{
+    background-color: #cfe0e8;
+}
+h2{
+    color: #000000;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+b{
+    color: #000000;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    
+}
+.img1{
+    position: relative;
+    right: -100px;
+}
+.img2{
+    position: relative;
+    right: -150px;
+}
+.img3{
+    position: relative;
+    right: -200px;
+}
+.img4{
+    position: relative;
+    right: -150px;
+}
+.img5{
+    position: relative;
+    right: -100px;
+}
+.img6{
+    position: relative;
+    right: -40px;
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+  .img7{
+      position: relative;
+      top: 50px;
+      
+  }
+  .divs{
+    position: relative;
+    right: -200px;
+  }
+  body {font-family: Arial, Helvetica, sans-serif;
+}
+
+@media only screen and (max-width: 320px){
+
+}
+@media only screen and (max-width: 375px){
+      
+}
+@media only screen and (max-width: 425px){
+      
+}
+@media only screen and (max-width: 768px){
+      
+}
+@media only screen and (max-width: 1024px){
+      
+}
+@media only screen and (max-width: 1440px){
+      
+}
+@media only screen and (max-width: 2560px){
+      
+}
