@@ -1,0 +1,1164 @@
+h3{
+    color: #000000;
+    font-size: 30px;
+}
+.bg{
+background-color: lightblue;
+}
+.bg1{
+    background-color: cornflowerblue;
+}
+h6{
+    position: relative;
+    right: -1350px;
+    top: -200px;
+    color: cadetblue;
+    text-align: right;
+}
+.a1:hover{
+    background-color: grey;
+}
+h1{
+    color: #000000;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    right: -400px;
+    top: -220px;
+}
+.bg2{
+    background-color: #cfe0e8;
+}
+h2{
+    color: #000000;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+b{
+    color: #000000;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    
+}
+.img1{
+    position: relative;
+    right: -100px;
+    width:280px;
+    height:200px;
+}
+.img2{
+    position: relative;
+    right: -150px;
+    width:280px;
+    height:200px;
+}
+.img3{
+    position: relative;
+    right: -200px;
+    width:300px;
+    height:200px;
+}
+.img4{
+    position: relative;
+    right: -150px;
+    width:420px;
+    height:220px;
+}
+.img5{
+    position: relative;
+    right: -100px;
+    width:400px;
+    height:220px;
+}
+.img6{
+    position: relative;
+    right: -40px;
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+  .img7{
+      position: relative;
+      top: 50px;
+      
+  }
+  .divs{
+    position: relative;
+    right: -200px;
+  }
+  body {font-family: Arial, Helvetica, sans-serif;
+}
+.styl1{
+    position:relative;
+    right:-1150px;
+    top:60px;
+}
+.styl2{
+    position:relative;
+
+}
+.im1{
+    width:220px;
+    height:220px;
+}
+.im2{
+    width:300px;
+    height:300px;
+}
+.im3{
+    width:300px;
+    height:300px;
+}
+.im4{
+    width:300px;
+    height:300px;
+}
+    .im51{
+        height:200px;
+        width:200px
+    }
+    .im52{
+        height:200px;
+        width:200px
+    }
+    .im61{
+        height:200px;
+        width:170px
+    }
+    .im62{
+        position:relative;
+        right:-30px;
+        width:170px;
+    }
+    .im71{
+        height:200px;
+        width:170px
+    }
+    .im72{
+        position:relative;
+        right:-30px;
+        width:170px;
+    }
+    .im81{
+        height:200px;
+        width:200px
+    }
+    .im82{
+        height:200px;
+        width:200px
+    }
+    .im91{
+        height:200px;
+        width:200px
+    }
+    .im92{
+        height:200px;
+        width:200px
+    }
+    .txt3{
+        position: relative;
+        right:50px;
+        color:red;
+    }
+    .txt4{
+        position:relative;
+        right:-100px;
+        top:-25px;
+        color:darkblue;
+    }
+    .txt5{
+        position: relative;
+        right:100px;
+        color:goldenrod;
+    }
+    .txt6{
+        position:relative;
+        right:-100px;
+        top:-25px;
+        color:green;
+    }
+@media only screen and (max-width: 320px){
+
+    .styl1{
+        position:relative;
+        right:-2px;
+        top:40px;
+    }
+    h6{
+        position: relative;
+        right: -10px;
+        top: -300px;
+        color: cadetblue;
+    }
+
+    .im1{
+        width:80px;
+        height:80px;
+        position: relative;
+        right: -10px;
+        top: 85px;
+    }
+    .im2{
+        width:100px;
+        height:100px;
+        position: relative;
+        right: 0px;
+        top: 110px;
+    }
+    .im3{
+        width:100px;
+        height:100px;
+        position: relative;
+        right: -10px;
+        top: 100px;
+    }
+    .im4{
+        width:80px;
+        height:80px;
+        position: relative;
+        right: -10px;
+        top: 100px;
+    }
+    .im51{
+        height:100px;
+        width:100px;
+    }
+    .im52{
+        height:100px;
+        width:100px;
+        position:relative;
+        right:-0px;
+    }
+    .im61{
+        height:100px;
+        width:85px;
+    }
+    .im62{
+        position:relative;
+        right:-10px;
+        width:85px;
+    }
+    .im71{
+        height:100px;
+        position:relative;
+        top: -5px;
+        width:85px;
+    }
+    .im72{
+        position:relative;
+        right:-20px;
+        top: -5px;
+        width:85px;
+    }
+    .im81{
+        height:100px;
+        width:100px;
+    }
+    .im82{
+        height:100px;
+        width:100px;
+    }
+    .im91{
+        height:100px;
+        width:100px;
+    }
+    .im92{
+        height:100px;
+        width:100px;
+    }
+    h1{
+        color: #000000;
+        font-size: 10px;
+        font-family: 'Courier New', Courier, monospace;
+        position: relative;
+        right: -10px;
+        top: -70px;
+    }
+    .txt1{
+        position: relative;
+        right: 8px;
+    }
+    .txt2{
+        position: relative;
+        right:-150px;
+    }
+    .txt4{
+        position: relative;
+        right: -70px;
+    }
+    .txt5{
+        position: relative;
+        right: 50px;
+    }
+    .txt6{
+        position: relative;
+        right: -70px;
+    }
+    .img1{
+        position: relative;
+        right: 0px;
+        width:280px;
+        height:200px;
+    }
+    .img2{
+        position: relative;
+        right: 0px;
+        width:280px;
+        height:200px;
+    }
+    .img3{
+        position: relative;
+        right:0px;
+        width:280px;
+        height:200px;
+    }
+    .img4{
+        position: relative;
+        right: 0px;
+        width:280px;
+        height:150px;
+    }
+    .img5{
+        position: relative;
+        right: -15px;
+        width:250px;
+        height:130px;
+    }
+    h2{
+        color: #000000;
+        font-size: 13px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+}
+@media only screen and (max-width: 375px){
+    .styl1{
+        position:relative;
+        right:-2px;
+        top:40px;
+    }
+    h6{
+        position: relative;
+        right: -10px;
+        top: -300px;
+        color: cadetblue;
+    }
+
+    .im1{
+        width:80px;
+        height:80px;
+        position: relative;
+        right: -10px;
+        top: 60px;
+    }
+    .im2{
+        width:100px;
+        height:100px;
+        position: relative;
+        right: 0px;
+        top: 100px;
+    }
+    .im3{
+        width:100px;
+        height:100px;
+        position: relative;
+        right: -10px;
+        top: 80px;
+    }
+    .im4{
+        width:80px;
+        height:80px;
+        position: relative;
+        right: -10px;
+        top: 89px;
+    }
+    .im51{
+        height:100px;
+        width:100px;
+    }
+    .im52{
+        height:100px;
+        width:100px;
+        position:relative;
+        right:-0px;
+    }
+    .im61{
+        height:100px;
+        width:85px;
+    }
+    .im62{
+        position:relative;
+        right:-10px;
+        width:85px;
+    }
+    .im71{
+        height:100px;
+        position:relative;
+        top: -5px;
+        width:85px;
+    }
+    .im72{
+        position:relative;
+        right:-20px;
+        top: -5px;
+        width:85px;
+    }
+    .im81{
+        height:100px;
+        width:100px;
+    }
+    .im82{
+        height:100px;
+        width:100px;
+    }
+    .im91{
+        height:100px;
+        width:100px;
+    }
+    .im92{
+        height:100px;
+        width:100px;
+    }
+    h1{
+        color: #000000;
+        font-size: 10px;
+        font-family: 'Courier New', Courier, monospace;
+        position: relative;
+        right: -10px;
+        top: -70px;
+    }
+    .txt1{
+        position: relative;
+        right: 8px;
+    }
+    .txt2{
+        position: relative;
+        right:-150px;
+    }
+    .txt4{
+        position: relative;
+        right: -70px;
+    }
+    .txt5{
+        position: relative;
+        right: 50px;
+    }
+    .txt6{
+        position: relative;
+        right: -70px;
+    }
+    .img1{
+        position:relative;
+        right:0px;
+        width:280px;
+        height:200px;
+    }
+    .img2{
+        position:relative;
+        right:0px;
+        width:280px;
+        height:200px;
+    }
+    .img3{
+        position:relative;
+        right:0px;
+        width:280px;
+        height:200px;
+    }
+    .img4{
+        position: relative;
+        right: 0px;
+        width:280px;
+        height:150px;
+    }
+    .img5{
+        position: relative;
+        right: -15px;
+        width:250px;
+        height:130px;
+    }
+    h2{
+        color: #000000;
+        font-size: 13px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+}
+@media only screen and (max-width: 425px){
+    .styl1{
+        position:relative;
+        right:-2px;
+        top:30px;
+    }
+    h6{
+        position: relative;
+        right: -10px;
+        top: -300px;
+        color: cadetblue;
+    }
+
+    .im1{
+        width:80px;
+        height:80px;
+        position: relative;
+        right: -10px;
+        top: 60px;
+    }
+    .im2{
+        width:100px;
+        height:100px;
+        position: relative;
+        right: 0px;
+        top: 90px;
+    }
+    .im3{
+        width:100px;
+        height:100px;
+        position: relative;
+        right: -10px;
+        top: 70px;
+    }
+    .im4{
+        width:70px;
+        height:70px;
+        position: relative;
+        right: -10px;
+        top: 70px;
+    }
+    .im51{
+        height:100px;
+        width:100px;
+    }
+    .im52{
+        height:100px;
+        width:100px;
+        position:relative;
+        right:-0px;
+    }
+    .im61{
+        height:100px;
+        width:85px;
+    }
+    .im62{
+        position:relative;
+        right:-10px;
+        width:85px;
+    }
+    .im71{
+        height:100px;
+        position:relative;
+        top: -5px;
+        width:85px;
+    }
+    .im72{
+        position:relative;
+        right:-20px;
+        top: -5px;
+        width:85px;
+    }
+    .im81{
+        height:100px;
+        width:100px;
+    }
+    .im82{
+        height:100px;
+        width:100px;
+    }
+    .im91{
+        height:100px;
+        width:100px;
+    }
+    .im92{
+        height:100px;
+        width:100px;
+    }
+    h1{
+        color: #000000;
+        font-size: 10px;
+        font-family: 'Courier New', Courier, monospace;
+        position: relative;
+        right: -10px;
+        top: -70px;
+    }
+    .txt1{
+        position: relative;
+        right: 8px;
+    }
+    .txt2{
+        position: relative;
+        right:-150px;
+    }
+    .txt4{
+        position: relative;
+        right: -70px;
+    }
+    .txt5{
+        position: relative;
+        right: 50px;
+    }
+    .txt6{
+        position: relative;
+        right: -70px;
+    }
+    .img1{
+        position: relative;
+        right: -50px;
+        width:280px;
+        height:200px;
+    }
+    .img2{
+        position: relative;
+        right: -50px;
+        width:280px;
+        height:200px;
+    }
+    .img3{
+        position: relative;
+        right: -50px;
+        width:280px;
+        height:200px;
+    }
+    .img4{
+        position: relative;
+        right: -50px;
+        width:280px;
+        height:150px;
+    }
+    .img5{
+        position: relative;
+        right: -65px;
+        width:250px;
+        height:130px;
+    }
+    h2{
+        color: #000000;
+        font-size: 13px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+}
+@media only screen and (max-width: 720px){
+    .styl1{
+        position:relative;
+        right:-2px;
+        top:30px;
+    }
+    h6{
+        position: relative;
+        right: -10px;
+        top: -300px;
+        color: cadetblue;
+    }
+
+    .im1{
+        width:130px;
+        height:130px;
+        position: relative;
+        right: -550px;
+        top: 60px;
+    }
+    .im2{
+        width:140px;
+        height:140px;
+        position: relative;
+        right: -580px;
+        top: 20px;
+    }
+    .im3{
+        width:150px;
+        height:150px;
+        position: relative;
+        right: -550px;
+        top: 40px;
+    }
+    .im4{
+        width:120px;
+        height:120px;
+        position: relative;
+        right: -550px;
+        top: 100px;
+    }
+    .im51{
+        height:150px;
+        width:150px;
+    }
+    .im52{
+        height:150px;
+        width:150px;
+        position:relative;
+        right:-0px;
+    }
+    .im61{
+        height:150px;
+        width:120px;
+    }
+    .im62{
+        position:relative;
+        right:-10px;
+        width:120px;
+        height:150px;
+    }
+    .im71{
+        height:150px;
+        position:relative;
+        top: -5px;
+        width:120px;
+    }
+    .im72{
+        position:relative;
+        right:-20px;
+        top: -5px;
+        width:120px;
+        height:150px;
+    }
+    .im81{
+        height:150px;
+        width:150px;
+    }
+    .im82{
+        height:150px;
+        width:150px;
+    }
+    .im91{
+        height:150px;
+        width:150px;
+    }
+    .im92{
+        height:150px;
+        width:150px;
+    }
+    h1{
+        color: #000000;
+        font-size: 15px;
+        font-family: 'Courier New', Courier, monospace;
+        position: relative;
+        right: -10px;
+        top: -70px;
+    }
+    .txt1{
+        position: relative;
+        right: 8px;
+    }
+    .txt2{
+        position: relative;
+        right:-150px;
+    }
+    .txt4{
+        position: relative;
+        right: -70px;
+    }
+    .txt5{
+        position: relative;
+        right: 50px;
+    }
+    .txt6{
+        position: relative;
+        right: -70px;
+    }
+    .img1{
+        position: relative;
+        right: -50px;
+        width:280px;
+        height:200px;
+    }
+    .img2{
+        position: relative;
+        right: -50px;
+        width:280px;
+        height:200px;
+    }
+    .img3{
+        position: relative;
+        right: -190px;
+        width:280px;
+        height:200px;
+        top: 5px;
+    }
+    .img4{
+        position: relative;
+        right: -60px;
+        width:280px;
+        height:150px;
+    }
+    .img5{
+        position: relative;
+        right: -50px;
+        width:250px;
+        height:130px;
+    }
+    h2{
+        color: #000000;
+        font-size: 13px;
+        font-family: 'Courier New', Courier, monospace;
+    } 
+}
+@media only screen and (max-width: 1024px){
+    h3{
+        color: #000000;
+        font-size: 30px;
+    }
+    .bg{
+    background-color: lightblue;
+    }
+    .bg1{
+        background-color: cornflowerblue;
+    }
+    h6{
+        position: relative;
+        right: -1350px;
+        top: -200px;
+        color: cadetblue;
+        text-align: right;
+    }
+    .a1:hover{
+        background-color: grey;
+    }
+    h1{
+        color: #000000;
+        font-size: 20px;
+        font-family: 'Courier New', Courier, monospace;
+        position: relative;
+        right: -400px;
+        top: -220px;
+    }
+    .bg2{
+        background-color: #cfe0e8;
+    }
+    h2{
+        color: #000000;
+        font-size: 15px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    b{
+        color: #000000;
+        font-size: 15px;
+        font-family: 'Courier New', Courier, monospace;
+        position: relative;
+        
+    }
+    .img1{
+        position: relative;
+        right: -100px;
+        width:280px;
+        height:200px;
+    }
+    .img2{
+        position: relative;
+        right: -150px;
+        width:280px;
+        height:200px;
+    }
+    .img3{
+        position: relative;
+        right: -200px;
+        width:300px;
+        height:200px;
+    }
+    .img4{
+        position: relative;
+        right: -150px;
+        width:420px;
+        height:220px;
+    }
+    .img5{
+        position: relative;
+        right: -100px;
+        width:400px;
+        height:220px;
+    }
+    .img6{
+        position: relative;
+        right: -40px;
+    }
+    table, th, td {
+        border: 2px solid black;
+        border-collapse: collapse;
+      }
+      .img7{
+          position: relative;
+          top: 50px;
+          
+      }
+      .divs{
+        position: relative;
+        right: -200px;
+      }
+      body {font-family: Arial, Helvetica, sans-serif;
+    }
+    .styl1{
+        position:relative;
+        right:-800px;
+        top:60px;
+    }
+    .styl2{
+        position:relative;
+        right: -500px;
+        
+    }
+    .im1{
+        width:220px;
+        height:220px;
+    }
+    .im2{
+        width:300px;
+        height:300px;
+    }
+    .im3{
+        width:300px;
+        height:300px;
+    }
+    .im4{
+        width:300px;
+        height:300px;
+    }
+        .im51{
+            height:200px;
+            width:200px
+        }
+        .im52{
+            height:200px;
+            width:200px
+        }
+        .im61{
+            height:200px;
+            width:170px
+        }
+        .im62{
+            position:relative;
+            right:-30px;
+            width:170px;
+        }
+        .im71{
+            height:200px;
+            width:170px
+        }
+        .im72{
+            position:relative;
+            right:-30px;
+            width:170px;
+        }
+        .im81{
+            height:200px;
+            width:200px
+        }
+        .im82{
+            height:200px;
+            width:200px
+        }
+        .im91{
+            height:200px;
+            width:200px
+        }
+        .im92{
+            height:200px;
+            width:200px
+        }
+        .txt3{
+            position: relative;
+            right:50px;
+            color:red;
+        }
+        .txt4{
+            position:relative;
+            right:-100px;
+            top:-25px;
+            color:darkblue;
+        }
+        .txt5{
+            position: relative;
+            right:100px;
+            color:goldenrod;
+        }
+        .txt6{
+            position:relative;
+            right:-100px;
+            top:-25px;
+            color:green;
+        }
+}
+@media only screen and (max-width: 1080px){
+    h3{
+        color: #000000;
+        font-size: 30px;
+    }
+    .bg{
+    background-color: lightblue;
+    }
+    .bg1{
+        background-color: cornflowerblue;
+    }
+    h6{
+        position: relative;
+        right: -1350px;
+        top: -200px;
+        color: cadetblue;
+        text-align: right;
+    }
+    .a1:hover{
+        background-color: grey;
+    }
+    h1{
+        color: #000000;
+        font-size: 20px;
+        font-family: 'Courier New', Courier, monospace;
+        position: relative;
+        right: -400px;
+        top: -220px;
+    }
+    .bg2{
+        background-color: #cfe0e8;
+    }
+    h2{
+        color: #000000;
+        font-size: 15px;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    b{
+        color: #000000;
+        font-size: 15px;
+        font-family: 'Courier New', Courier, monospace;
+        position: relative;
+        
+    }
+    .img1{
+        position: relative;
+        right: -100px;
+        width:280px;
+        height:200px;
+    }
+    .img2{
+        position: relative;
+        right: -150px;
+        width:280px;
+        height:200px;
+    }
+    .img3{
+        position: relative;
+        right: -200px;
+        width:300px;
+        height:200px;
+    }
+    .img4{
+        position: relative;
+        right: -150px;
+        width:420px;
+        height:220px;
+    }
+    .img5{
+        position: relative;
+        right: -100px;
+        width:400px;
+        height:220px;
+    }
+    .img6{
+        position: relative;
+        right: -40px;
+    }
+    table, th, td {
+        border: 2px solid black;
+        border-collapse: collapse;
+      }
+      .img7{
+          position: relative;
+          top: 50px;
+          
+      }
+      .divs{
+        position: relative;
+        right: -200px;
+      }
+      body {font-family: Arial, Helvetica, sans-serif;
+    }
+    .styl1{
+        position:relative;
+        right:-1150px;
+        top:60px;
+    }
+    .styl2{
+        position:relative;
+    
+    }
+    .im1{
+        width:220px;
+        height:220px;
+    }
+    .im2{
+        width:300px;
+        height:300px;
+    }
+    .im3{
+        width:300px;
+        height:300px;
+    }
+    .im4{
+        width:300px;
+        height:300px;
+    }
+        .im51{
+            height:200px;
+            width:200px
+        }
+        .im52{
+            height:200px;
+            width:200px
+        }
+        .im61{
+            height:200px;
+            width:170px
+        }
+        .im62{
+            position:relative;
+            right:-30px;
+            width:170px;
+        }
+        .im71{
+            height:200px;
+            width:170px
+        }
+        .im72{
+            position:relative;
+            right:-30px;
+            width:170px;
+        }
+        .im81{
+            height:200px;
+            width:200px
+        }
+        .im82{
+            height:200px;
+            width:200px
+        }
+        .im91{
+            height:200px;
+            width:200px
+        }
+        .im92{
+            height:200px;
+            width:200px
+        }
+        .txt3{
+            position: relative;
+            right:50px;
+            color:red;
+        }
+        .txt4{
+            position:relative;
+            right:-100px;
+            top:-25px;
+            color:darkblue;
+        }
+        .txt5{
+            position: relative;
+            right:100px;
+            color:goldenrod;
+        }
+        .txt6{
+            position:relative;
+            right:-100px;
+            top:-25px;
+            color:green;
+        }
+}
+@media only screen and (max-width: 1440px){
+      
+}
+
